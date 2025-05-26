@@ -46,7 +46,7 @@ I also work on **UI/UX prototypes** using Figma!
 
 ## ✉️ Let's Connect
 📫 Email: [ayandakhumalo080@gmail.com]  
-💼 LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/ayanda-khumalo-591b02250)   
+💼 LinkedIn: [www.linkedin.com/in/ayanda-khumalo-591b02250]
 🌐 Portfolio: [](#) 
 
 ---
