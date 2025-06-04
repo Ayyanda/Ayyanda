@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ayyanda!
+# 👋 Hi there, I'm Ayanda!
 
 👩‍💻 **Aspiring Frontend Developer** | 🐍 **Python Coder** | 🧶 **Creative Crochet Coder**
 
