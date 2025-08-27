@@ -15,6 +15,9 @@ I'm passionate about creating engaging and accessible tech solutions. I'm curren
 - 🔤 HTML, CSS
 - 💻 JavaScript (in progress)
 - 🐍 Python (APIs, scripts, automation)
+- Java(OOP, Socket Programming...)
+- MongoDB
+- SQLlite
 - 🎨 Figma (UI/UX design)
 - 🌐 Git & GitHub
 
