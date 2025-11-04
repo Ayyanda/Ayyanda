@@ -52,7 +52,7 @@ I also design intuitive user experiences and prototypes using Figma:
 ## Let's Connect
 
 - Email: [ayandakhumalo080@gmail.com](mailto:ayandakhumalo080@gmail.com)  
-- LinkedIn: [linkedin.com/in/ayanda-khumalo-591b02250](www.linkedin.com/in/ayanda-khumalo-z13)  
+- LinkedIn: [linkedin.com/in/ayanda-khumalo-591b02250](https://www.linkedin.com/in/ayanda-khumalo-z13/) 
 - Portfolio: *(Coming Soon)*
 
 ---
