@@ -30,10 +30,10 @@ A Python app that fetches recipe suggestions based on user-input ingredients usi
 ### Crochet Pattern Visualiser *(Still in the works!)*
 A creative tool to help visualize crochet stitch patterns, merging crafting with code.
 
-### [BrainBloom] (https://github.com/UniqLee/BrainBloom)
+### BrainBloom (https://github.com/UniqLee/BrainBloom)
 An AI powered study budy with a chatroom and prompt sharing room to enforce collaboration and student support.
 
-### [Simple Calculator](https://github.com/Ayyanda/simple-calculator)
+### Simple Calculator(https://github.com/Ayyanda/simple-calculator)
 My first CLI Python project for basic arithmetic built to practice clean, user-friendly logic.
 
 ---
